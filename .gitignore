@@ -6,3 +6,4 @@ output/
 .claude/
 ui/node_modules/
 ui/dist/
+.DS_Store
