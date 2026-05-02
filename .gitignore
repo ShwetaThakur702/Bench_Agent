@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+output/
+ui/node_modules/
+ui/dist/
+.DS_Store
